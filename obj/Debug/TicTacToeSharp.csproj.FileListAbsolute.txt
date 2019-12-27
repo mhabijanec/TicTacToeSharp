@@ -1,0 +1,14 @@
+D:\projects\CSharp\TicTacToeSharp\bin\Debug\TicTacToeSharp.exe.config
+D:\projects\CSharp\TicTacToeSharp\bin\Debug\TicTacToeSharp.exe
+D:\projects\CSharp\TicTacToeSharp\bin\Debug\TicTacToeSharp.pdb
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.csprojAssemblyReference.cache
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\MainWindow.g.cs
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\App.g.cs
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp_MarkupCompile.cache
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp_MarkupCompile.lref
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\MainWindow.baml
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.g.resources
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.Properties.Resources.resources
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.csproj.GenerateResource.cache
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.exe
+D:\projects\CSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.pdb
